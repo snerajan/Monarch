@@ -1,2 +1,2 @@
 # Monarch
-// trying out GitHub 
+// trying out GitHub integrations
